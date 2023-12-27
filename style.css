@@ -1,0 +1,95 @@
+/* body{
+    background-color: black;
+} */
+
+
+html {
+    margin: 0;
+   
+
+  }
+  
+  span {
+    display: block;
+  }
+  .canvas {
+    margin: 100px auto 100px;
+    width: 80%;
+    text-align: center;
+   
+  }
+  
+  .button {
+    width: 100px;
+    height: 100px;
+    border: solid black 2px;
+    display: inline-block;
+    /* border-radius: 50%; */
+  }
+
+  .button:hover{
+    
+    cursor: pointer;
+   
+   
+  }
+  
+  #grey {
+    background: grey;
+  }
+  
+  #white {
+    background: white;
+  }
+  #blue {
+    background: blue;
+  }
+  #yellow {
+    background: yellow;
+  }
+#green {
+    background-color: green;
+}  
+
+#khaki{
+    background: khaki;
+}
+#red{
+    background: red;
+}
+#purple{
+  background-color: purple;
+}
+
+#black{
+  background-color: black;
+}
+
+#aqua{
+  background-color: aqua;
+}
+
+#pink{
+  background-color: pink;
+}
+
+#tan{
+  background-color:tan;
+}
+
+#crimson{
+  background-color: crimson;
+}
+
+a{
+  text-decoration: none;
+  color: navy;
+  font-size: 30px;
+  /* background-color: wheat; */
+}
+
+a:hover{
+  font-size: 50px;
+  border-bottom: solid navy 2px;
+  color: purple;
+}
